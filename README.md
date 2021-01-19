@@ -8,4 +8,4 @@
 - plotwaveform.m - narysowanie danych z pliku binarnego
 - wavemovie.m - utworzenie animacji funkcji falowej. Wyświetlana jest jej część rzeczywista, urojona, amplituda, a także potencjał w kolejnych chwilach czasu. Wyświetlana jest również energia kinetyczna, potencjalna i całkowita oraz wielkość bariery potencjału.
 
-**`![Funkcja falowa elektronu przed spotkaniem z barierą potencjału](images/before_barrier.png)`**
+![Funkcja falowa elektronu przed spotkaniem z barierą potencjału](images/before_barrier.png)
